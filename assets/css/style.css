@@ -1,0 +1,6 @@
+.bg-red {
+    background: #C74B40;
+}
+.bg-red .navbar-nav .nav-link{
+    color: white;
+}
